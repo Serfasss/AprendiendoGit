@@ -1,0 +1,130 @@
+header{
+    width: 100%;
+    height: 105px;
+    
+}
+
+header .logo{
+    width: 180px;
+    margin-left:15px;
+    position:relative;
+    bottom:40px;
+}
+
+.test{
+    background-color:red;
+}
+
+.burguernav{
+    background-color: white;
+    height: 105px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+.nav{
+    float: right;
+    margin: 25px 15px 0px 25px;
+    font-family: Passion One;
+    font-size: 25px;
+}
+
+.colorblack{
+    color: black;
+}
+
+.burguergallery{
+    background-color:pink;
+    width:100%;
+    height:600px;
+    object-fit:cover;
+    object-position:50% 50%;
+}
+.nashville{
+    background-color:pink;
+    width:100%;
+    height:500px;
+}
+.nashvilleburguer{
+    border-radius: 20px;
+    margin: 50px 0px 0px 100px;
+}
+.nashvilletext{
+    color:black;
+    font-family: Passion One;
+    font-size:40px;
+    float:right;
+    position:relative;
+    bottom: 400px;
+    right: 450px;
+}
+.subtextnashville{
+    font-family: sans-serif;
+}
+
+.burguerguy{
+    float:right;
+    position: relative;
+    bottom:400px;
+    left:400px;
+}
+
+.favoritestext{
+    font-family: Passion One;
+    font-size: 76px;
+    margin-left:195px;
+    position:relative;
+    top: 15px;
+}
+
+.favorites{
+    border-radius: 100px;
+    position:relative;
+    left: 5%;
+    margin: 15px;
+}
+.yellow{
+    background-color: pink;
+    width: 100%;
+    height: 500px;
+}
+
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+
+}
+
+.yellowburguerimg{
+    height: 500px;
+}
+
+.pinktext{
+    float:right;
+    font-family: Passion One;
+    font-size:30px;
+    position:relative;
+    bottom:450px;
+    right:125px;
+}
+.redtext{
+    color: rgb(233, 52, 52);
+}
+.links{
+    background-color: black;
+    font-family: Passion One;
+    color:inherit;
+    text-decoration: none;
+}
+
+.nav1{
+    float:right;
+}
+.nav2{
+    float:right;
+}
+.nav3{
+    float:right;
+}
+.nav4{
+    float:right;
+}
